@@ -1,3 +1,3 @@
-# Alzheimer-dataset
+# NGS datasets
 
-This project looks at next generation sequencing of an alzhiemer's data
+
